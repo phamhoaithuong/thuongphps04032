@@ -1,0 +1,10 @@
+applications:
+- path: .
+  memory: 128M
+  instances: 1
+  domain: mybluemix.net
+  name: thuongphps04032
+  host: thuongphps04032
+  disk_quota: 1024M
+  services:
+  - thuongphps04032
